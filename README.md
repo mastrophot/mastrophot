@@ -3,14 +3,23 @@
 </p>
 
 <p align="center">
-  Building practical products at the intersection of AI agents, NEAR tooling, and interactive web apps.
+  Building AI-first products with agentic LLM workflows, NEAR tooling, and interactive web apps.
 </p>
 
 <p align="center">
-  <a href="https://github.com/mastrophot"><img src="https://img.shields.io/badge/GitHub-mastrophot-111827?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
   <a href="https://t.me/mastrophot"><img src="https://img.shields.io/badge/Telegram-@mastrophot-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
   <img src="https://img.shields.io/badge/Location-Ukraine-22c55e?style=for-the-badge" alt="location" />
 </p>
+
+## Agentic AI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI--Native%20Builder-Agentic%20LLM%20Workflow-16a34a?style=for-the-badge" alt="agentic llm workflow" />
+  <img src="https://img.shields.io/badge/Development-Human%20x%20AI%20Pairing-0f172a?style=for-the-badge" alt="human ai pairing" />
+</p>
+
+- Most projects here are shipped with **agent-driven development** (LLM copilots, automation, and iterative AI-assisted implementation).
+- Focus: move from idea to working product fast, then harden quality and security.
 
 ## Focus 2026
 
