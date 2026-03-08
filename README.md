@@ -64,8 +64,8 @@
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mastrophot&show_icons=true&hide_border=true&bg_color=00000000&title_color=22c55e&text_color=cbd5e1&icon_color=22c55e" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastrophot&layout=compact&hide_border=true&bg_color=00000000&title_color=22c55e&text_color=cbd5e1" alt="langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mastrophot&theme=github_dark" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mastrophot&theme=github_dark" alt="langs" />
 </p>
 
 <p align="center">
