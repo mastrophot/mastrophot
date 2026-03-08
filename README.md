@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Building AI-first products with agentic LLM workflows, NEAR tooling, and interactive web apps.
+  Building AI-first products with agentic LLM workflows, automation tooling, and interactive web apps.
 </p>
 
 <p align="center">
