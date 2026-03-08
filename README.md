@@ -21,6 +21,10 @@
 - Most projects here are shipped with **agent-driven development** (LLM copilots, automation, and iterative AI-assisted implementation).
 - Focus: move from idea to working product fast, then harden quality and security.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Pipeline-Idea%20%E2%86%92%20Agent%20Build%20%E2%86%92%20Ship%20%E2%86%92%20Harden-14532d?style=flat-square" alt="agentic pipeline" />
+</p>
+
 ## Focus 2026
 
 <table>
@@ -48,12 +52,36 @@
 
 ## Featured Projects
 
-- [near-langchain-tx-builder](https://github.com/mastrophot/near-langchain-tx-builder) - LLM-assisted NEAR transaction building.
-- [near-fastapi](https://github.com/mastrophot/near-fastapi) - API patterns and integrations around NEAR workflows.
-- [near-contract-size-check-action](https://github.com/mastrophot/near-contract-size-check-action) - GitHub Action for smart-contract size validation.
-- [agent-wars-contract](https://github.com/mastrophot/agent-wars-contract) - NEAR contract built for challenge scenarios.
-- [near-developer-suite-vscode](https://github.com/mastrophot/near-developer-suite-vscode) - VS Code tooling for NEAR developer workflows.
-- [fifteen-puzzle](https://github.com/mastrophot/fifteen-puzzle) - Interactive game project with polished UX.
+<table>
+  <tr>
+    <th>Project</th>
+    <th>What It Does</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mastrophot/near-langchain-tx-builder">near-langchain-tx-builder</a></td>
+    <td>LLM-assisted tooling to build and simulate NEAR transactions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mastrophot/near-fastapi">near-fastapi</a></td>
+    <td>Production-ready REST API layer for NEAR Protocol operations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mastrophot/near-contract-size-check-action">near-contract-size-check-action</a></td>
+    <td>GitHub Action for CI-based WASM size control in smart contracts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mastrophot/near-developer-suite-vscode">near-developer-suite-vscode</a></td>
+    <td>VS Code extension pack tailored to NEAR developer workflows.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mastrophot/agent-wars-contract">agent-wars-contract</a></td>
+    <td>Challenge-grade NEAR contract implementation and delivery flow.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mastrophot/medicaid-fraud-signal-engine">medicaid-fraud-signal-engine</a></td>
+    <td>Data pipeline that generates fraud signals from healthcare datasets.</td>
+  </tr>
+</table>
 
 ## Stack
 
